@@ -167,12 +167,14 @@ In case you access the Pirate Bay by downloading torrent files, ensure to instal
 
 In 2004, Gottfrid was the individual controlling the Pirate Bay site which went down in October of 2018 for extended periods of time. On November 10, 2010, the tracker of the Pirate Bay remained redundant.
 
+Now you can able to `create your Pirate bay proxy <https://piratebay-proxys.com/how-to-create-thepiratebay-proxy.html>`__ from the here 
+
 
 
 How to find piratebay proxies
 In terms of ease and trust, Pirate Bay is the most popular torrent site on the internet. No doubt, Pirate Bay is one of the first websites that most people will use.
 
-More and more often, content creators have to restrict their audience because of geo-restrictions. Thankfully, you can use some proxy sites that are easily accessible. Here are some that can access the Pirate Bay website:
+More and more often, content creators have to restrict their audience because of geo-restrictions. Thankfully, you can use some proxy sites that are easily accessible. Here are some that can access the `Pirate Bay alternatives <https://piratebay-proxys.com/pirate-bay-alternatives.html>`__:
 
 IDope - If you find The PirateBay torrent page interesting, you will also love the IDope. This network works in different Kickass Torrents. IDope is the latest torrent website you can access on Google Play. Even though it is still new, don't underestimate it as it has amassed more than 12 million torrents already. Not only that, thepiratebay.org has an updated layout. Just like the Swedish-made torrent page, IDopey is pretty easy to use. Take note. You need to use your email address
 
