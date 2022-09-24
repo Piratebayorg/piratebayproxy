@@ -1,3 +1,9 @@
+.. meta::
+   :description: Pirate Bay is blocked on your network? Use a proxy site to bypass filters.
+
+Pirate Bay Proxy List - Download movies, music, games and more!
+========================================================
+
 Is Pirate Bay down?
 If you are looking for a torrent site with good files, Pirate Bay is the place to go. ThePirateBay.org offers free access to content and has an interface that is simple and easy-to-use.
 
@@ -22,7 +28,8 @@ https://thepiratebay.ae
 
 
 
-
+The Pirate Bay !
+========================================================
 
 `The Pirate Bay <https://piratebay-proxys.com/>`__ was developed by a Swedish citizen named Piratbyran in 2003, who created the website that provides information unrestrictedly on torrent files. While many individuals are using this portal to download various files, there are also many people working on it in order to share them.
 
